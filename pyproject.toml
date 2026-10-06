@@ -1,0 +1,9 @@
+[project]
+name = "process-engineering-ai-benchmark"
+version = "0.2.0"
+description = "Benchmark for evaluating AI reasoning on chemical and process engineering problems"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["src"]
