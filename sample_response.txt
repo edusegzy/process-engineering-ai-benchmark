@@ -1,0 +1,5 @@
+Possible causes include exchanger fouling, reduced process or utility flow, bad temperature measurement, a control valve issue, or bypass leakage.
+
+First, I would verify the inlet and outlet temperature measurements and compare current flow rates and pressure drops with historical trends. Then I would check the utility supply conditions and valve positions. If pressure drop has increased while flow is similar, fouling becomes more likely. If pressure drop is unchanged, I would investigate measurement error, bypassing, or utility-side changes before recommending cleaning.
+
+I would not recommend taking the exchanger out of service or changing operation until the cause is better supported by data and site operating limits are understood.
